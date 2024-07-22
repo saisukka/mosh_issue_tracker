@@ -1,1 +1,0 @@
-# mosh_issue_tracker
